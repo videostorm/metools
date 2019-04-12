@@ -1,3 +1,5 @@
+[![Build Status](https://www.travis-ci.org/videostorm/metools.svg?branch=master)](https://www.travis-ci.org/videostorm/metools)
+
 # 个人工具站点
 
 **这个工具个人及朋友实际使用的时候主要还是 Chrome 插件居多，欢迎使用(https://github.com/yimogit/metools-plugin)**
