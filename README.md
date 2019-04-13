@@ -1,5 +1,5 @@
 [![Build Status](https://www.travis-ci.org/videostorm/travis-ci-test.svg?branch=master)](https://www.travis-ci.org/videostorm/travis-ci-test)
-[![codecov](https://codecov.io/gh/videostorm/travis-ci-test/branch/master/graph/badge.svg)](https://codecov.io/gh/videostorm/travis-ci-test)
+[![coverage](https://codecov.io/gh/videostorm/travis-ci-test/branch/master/graph/badge.svg)](https://codecov.io/gh/videostorm/travis-ci-test)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat)](http://doge.mit-license.org)
 
 # 个人工具站点
