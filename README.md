@@ -1,5 +1,5 @@
 [![Build Status](https://www.travis-ci.org/videostorm/travis-ci-test.svg?branch=master)](https://www.travis-ci.org/videostorm/travis-ci-test)
-[![Coverage Status](https://img.shields.io/codecov/c/github/auth0/java-jwt/v3.svg?style=flat-square)](https://codecov.io/github/auth0/java-jwt)
+[![Coverage Status](https://coveralls.io/repos/github/videostorm/travis-ci-test/badge.svg?branch=master)](https://coveralls.io/github/videostorm/travis-ci-test?branch=master)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat)](http://doge.mit-license.org)
 
 # 个人工具站点
