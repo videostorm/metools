@@ -1,4 +1,4 @@
-[![Build Status](https://www.travis-ci.org/videostorm/metools.svg?branch=master)](https://www.travis-ci.org/videostorm/metools)
+[![Build Status](https://www.travis-ci.org/videostorm/travis-ci-test.svg?branch=master)](https://www.travis-ci.org/videostorm/travis-ci-test)
 [![Coverage Status](https://img.shields.io/codecov/c/github/auth0/java-jwt/v3.svg?style=flat-square)](https://codecov.io/github/auth0/java-jwt)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat)](http://doge.mit-license.org)
 
