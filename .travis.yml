@@ -11,6 +11,7 @@ cache:
 # S: Build Lifecycle
 install:
   - npm install
+  - npm install coveralls --save-dev
   #- npm install --registry=https://registry.npm.taobao.org
 
 before_script:
