@@ -11,14 +11,17 @@ cache:
 # S: Build Lifecycle
 install:
   - npm install
-  - npm install coveralls --save-dev
+  #- npm install coveralls --save-dev
+  - yarn install
+  - yarn global add node-coveralls
   #- npm install --registry=https://registry.npm.taobao.org
 
 before_script:
 
 script:
   - npm run build
-  - npm test
+  #- npm test
+  - yarn jest --coverage --coverageReporters=text-lcov | coveralls
   
 after_success:
  - npm run coveralls
