@@ -12,14 +12,16 @@ cache:
 install:
   - npm install
   #- npm install --registry=https://registry.npm.taobao.org
-  - npm install -g istanbul
+  #- npm install -g istanbul
+  - npm install -g jest
   - npm install -g codecov
 
 before_script:
 
 script:
   - npm run build
-  - istanbul cover ./node_modules/mocha/bin/_mocha --report lcovonly -- -R spec && codecov
+  #- istanbul cover ./node_modules/mocha/bin/_mocha --report lcovonly -- -R spec && codecov
+  - jest && codecov
 
 after_script:
   - cd ./dist
