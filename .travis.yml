@@ -19,8 +19,7 @@ before_script:
 
 script:
   - npm run build
-  - istanbul cover ./node_modules/mocha/bin/_mocha --reporter lcovonly -- -R spec
-  - codecov
+  - istanbul cover ./node_modules/mocha/bin/_mocha --report lcovonly -- -R spec && codecov
 
 after_script:
   - cd ./dist
